@@ -1,5 +1,5 @@
 {
-  "name": "test007",
+  "name": "theme1",
   "theme": "syntax",
   "version": "1.1.0",
   "description": "A short description of your syntax theme",
@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/nombig/test007",
+  "repository": "https://github.com/nombig/theme1",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
